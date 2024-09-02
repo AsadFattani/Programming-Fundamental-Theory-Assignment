@@ -11,10 +11,10 @@
 -->
 
 <div align="center">
-    <a href="https://github.com/AsadFattani/24K-0721/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AsadFattani/24K-0721?color=ff69b4&style=for-the-badge"></a>
-    <a href="https://github.com/AsadFattani/24K-0721/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AsadFattani/24K-0721?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
-    <a href="https://github.com/AsadFattani/24K-0721/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AsadFattani/24K-0721?color=brightgreen&label=issues&style=for-the-badge"></a>
-    <a href="https://github.com/AsadFattani/24K-0721/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AsadFattani/24K-0721?color=9cf&label=forks&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/Programming-Fundamental-Theory-Assignment/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AsadFattani/Programming-Fundamental-Theory-Assignment?color=ff69b4&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/Programming-Fundamental-Theory-Assignment/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AsadFattani/Programming-Fundamental-Theory-Assignment?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/Programming-Fundamental-Theory-Assignment/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AsadFattani/Programming-Fundamental-Theory-Assignment?color=brightgreen&label=issues&style=for-the-badge"></a>
+    <a href="https://github.com/AsadFattani/Programming-Fundamental-Theory-Assignment/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AsadFattani/Programming-Fundamental-Theory-Assignment?color=9cf&label=forks&style=for-the-badge"></a>
 </div>
 <br>
 
@@ -39,7 +39,7 @@
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=PROGRAMMING-FUNDEMENTALS-24K-0721">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=PF-Theory-24K-0721">
 </div>
 
 
@@ -117,7 +117,8 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 -->
 - [x] Create first Template 
 - [x] Create a More Dynamic README file.
-- [ ] Make a first pseudocode file
+- [x] Make a first pseudocode file
+- [ ] Make 13 files for questions 1-13 
 
 <p align="right"><a href="#top">back to top ⬆️</a></p>
 
@@ -140,9 +141,10 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 * Without contribution we wouldn't have open source. 
 * 
 -->
-<a href="https://github.com/AsadFattani/24K-0721/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AsadFattani/24K-0721" />
+<a href="https://github.com/AsadFattani/Programming-Fundamental-Theory-Assignment/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AsadFattani/Programming-Fundamental-Theory-Assignment" alt="Contributors" />
 </a>
+
 
 
 ## Acknowledgments<!-- Optional -->
@@ -169,7 +171,7 @@ This repository is dedicated to my work in the **Programming Fundamentals Lab** 
 .
 -->
 
-> You can make this project better, please  feel free to open a [Pull Request](https://github.com/AsadFattani/24K-0721/pulls).
+> You can make this project better, please  feel free to open a [Pull Request](https://github.com/AsadFattani/Programming-Fundamental-Theory-Assignment/pulls).
 - If you notice a bug or a typo use the tag **"Correction"**.
 - If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
 
@@ -190,7 +192,7 @@ Reach me via email: [asad.imran.fattani@gmail.com](mailto:asad.imran.fattani@gma
 * 
 * check this website for an easy reference https://choosealicense.com/)
 -->
-- [liscense] (no liscence)
+- [license] (no license)
 
 
 
