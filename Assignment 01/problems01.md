@@ -8,6 +8,6 @@
         OUTPUT "Enter the speed in kilometers per seconds" 
         INPUT speed
       ENDWHILE
-      speed = (speed * 3600 ) / 1.60934
+      speed = (speed * 3600 * 0.62137119)
       OUTPUT speed
 
