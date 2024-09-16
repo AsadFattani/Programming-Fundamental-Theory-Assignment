@@ -4,12 +4,41 @@
 
 ## IPO
 
+#### INPUT
+- `dobDay`: The day of birth (integer)
+- `dobMonth`: The month of birth (integer)
+- `dobYear`: The year of birth (integer)
+- `currDay`: The current day (integer)
+- `currMonth`: The current month (integer)
+- `currYear`: The current year (integer)
+
+#### PROCESS
+- **Validate Input**:
+  - Check if `dobDay`, `dobMonth`, and `dobYear` form a valid date.
+  - Ensure the provided date is realistic and falls within acceptable ranges.
+
+- **Calculate Preliminary Age**:
+  - Calculate preliminary age in years by subtracting `dobYear` from `currYear`.
+  - Determine preliminary age in months and days.
+
+- **Adjust for Date Differences**:
+  - If `currDay` is less than `dobDay`, adjust the day calculation by adding days from the previous month and decrementing `ageMonths` by 1.
+  - If `currMonth` is less than `dobMonth`, adjust the month calculation by adding 12 months to `currMonth` and decrementing `ageYears` by 1.
+
+- **Finalize Age Calculation**:
+  - Ensure final age values are accurate, taking into account all adjustments.
+
+#### OUTPUT
+- `ageYears`: Exact age in years
+- `ageMonths`: Exact age in months
+- `ageDays`: Exact age in days
+
 
 
 
 ## Flowchart
 
-<img src="problem03.jpeg">
+<img src="problem09.jpeg">
 
 ## Pseudocode
 
@@ -50,7 +79,7 @@
               INPUT currMonth
           END WHILE
       
-          // Validate day of current date
+          // Validating day of current date
           IF currMonth = 2 THEN
               WHILE currDay < 1 OR currDay > 28 DO
                   PRINT "Invalid day for February in current date. Please enter a day between 1 and 28."
@@ -68,24 +97,20 @@
               END WHILE
           END IF
       
-          // Initialize variables for age calculation
           years = currYear - dobYear
           months = currMonth - dobMonth
           days = currDay - dobDay
       
-          // Adjust days if necessary
           WHILE days < 0 DO
               days = days + 30 // Assuming 30 days in a month
               months = months - 1
           END WHILE
       
-          // Adjust months if necessary
           WHILE months < 0 DO
               months = months + 12
               years = years - 1
           END WHILE
       
-          // Output the calculated age
           PRINT "Exact age is: ", years, " years, ", months, " months, and ", days, " days."
       END
 
