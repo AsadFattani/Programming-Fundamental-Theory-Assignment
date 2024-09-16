@@ -5,9 +5,9 @@
 
       speed = 0 
       WHILE speed <= 0 DO
-        OUTPUT "Enter the speed in kilometers per seconds" 
+        PRINT "Enter the speed in kilometers per seconds: " 
         INPUT speed
       ENDWHILE
       speed = (speed * 3600 * 0.62137119)
-      OUTPUT speed
+      PRINT ("The speed is ", speed) 
 
