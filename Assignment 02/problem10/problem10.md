@@ -16,8 +16,8 @@ implementing the program.
 
 
 ### Output cases
-<img src = "../images/problem(1).png" width = "60%" height = "auto">
-<img src = "../images/problem(2).png" width = "60%" height = "auto">
+<img src = "../images/problem10(1).png" width = "60%" height = "auto">
+<img src = "../images/problem10(2).png" width = "60%" height = "auto">
 
 ### Approch 
 
