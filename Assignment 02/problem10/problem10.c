@@ -124,8 +124,10 @@ void printStar(int n){
 
 int main(){
     int n;
-    printf("Enter num: ");
-    scanf("%d", &n);
+    do{
+        printf("Enter the size ( greater than 3 ): ");
+        scanf("%d", &n);
+    }while(n < 3 || n % 2 == 0);
 
     printStar(n);
 
