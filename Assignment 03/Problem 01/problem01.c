@@ -66,6 +66,7 @@ int main() {
         printf("Employee Name: ");
         while (getchar() != '\n'); // clear the input buffer
         fgets(name, 100, stdin);
+        name[strcspn(name, "\n")] = '\0'; // Remove newline character
         printf("Date of Joining (day month year): ");
         scanf("%d %d %d", &day, &month, &year);
         assignValues(&employees[i], code, name, day, month, year);
