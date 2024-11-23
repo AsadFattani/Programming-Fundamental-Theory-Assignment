@@ -51,16 +51,18 @@ int main() {
 
     // testing values
     // assignValues(&employees[0], 101, "Alice\n", 15, 5, 2019);
-    // assignValues(&employees[1], 102, "Bob\n", 20, 8, 2022);
-    // assignValues(&employees[2], 103, "Charlie\n", 25, 12, 2011);
+    // assignValues(&employees[1], 102, "Bob shmichael\n", 20, 8, 2022);
+    // assignValues(&employees[2], 103, "Charlie dsouza\n", 25, 12, 2011);
     // assignValues(&employees[3], 104, "David\n", 30, 1, 2024);
 
     for (int i = 0; i < n; i++) {
         int code, day, month, year;
         char name[100];
         printf("Enter details for employee %d\n", i + 1);
+        do{
         printf("Employee Code: ");
         scanf("%d", &code);
+        } while (code <= 0);
         printf("Employee Name: ");
         while (getchar() != '\n'); // clear the input buffer
         fgets(name, 100, stdin);
