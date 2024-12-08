@@ -1,8 +1,8 @@
 ## A system to track employees perfomance using dynamic memory allocation
 
 ### Output cases
-<img src = "../images/problem04(1).png" width = "60%" height = "auto">
-<img src = "../images/problem04(2).png" width = "60%" height = "auto">
+<img src = "../Images/problem04(1).png" width = "60%" height = "auto">
+<img src = "../Images/problem04(2).png" width = "60%" height = "auto">
 
 ### Approach
 1. Define the `Employee` structure with fields for ratings and totalScore.

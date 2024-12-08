@@ -1,7 +1,7 @@
 ## The program to validate email address using memory allocation
 
 ### Output cases
-<img src = "../images/problem03.png" width = "60%" height = "auto">
+<img src = "../Images/problem03.png" width = "60%" height = "auto">
 
 ### Approach
 1. Allocate memory for the email input.

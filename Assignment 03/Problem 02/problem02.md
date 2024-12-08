@@ -1,7 +1,7 @@
 ## This problem involves simulating a simple cricket game between two players.
 
 ### Output cases
-<img src = "../images/problem.png" width = "60%" height = "auto">
+<img src = "../Images/problem.png" width = "60%" height = "auto">
 
 ### Approach 
 1. Define a `Player` structure to store player names, ball scores, and total scores.

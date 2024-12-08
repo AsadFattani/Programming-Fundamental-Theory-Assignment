@@ -1,7 +1,7 @@
 ## User Engagement and Preferences Management System
 
 ### Output cases
-<img src = "../images/problem07.png" width = "60%" height = "auto">
+<img src = "../Images/problem07.png" width = "60%" height = "auto">
 
 ### Approach 
 In this problem, we manage user engagement scores, content metadata, and device preferences using a C program. The program initializes matrices for engagement scores, content metadata, and device preferences. It provides a menu-driven interface to update and print these matrices. The main steps are:

@@ -1,7 +1,7 @@
 ## A program that calculates the tenure of employees and lists those with more than 3 years of service.
 
 ### Output cases
-<img src = "../images/problem01.png" width = "60%" height = "auto">
+<img src = "../Images/problem01.png" width = "60%" height = "auto">
 
 ### Approch 
 1. Define structures for Date and Employee.

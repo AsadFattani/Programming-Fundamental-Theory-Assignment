@@ -1,7 +1,7 @@
 ## Pets in Heart
 
 ### Output cases
-<img src = "../images/problem05.png" width = "60%" height = "auto">
+<img src = "../Images/problem05.png" width = "60%" height = "auto">
 
 ### Approach
 The program manages an inventory of supplies for different species. It allows the user to:
